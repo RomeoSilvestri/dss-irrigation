@@ -77,5 +77,3 @@ The DSS provides actionable insights to farmers by defining irrigation rules bas
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-For more information or any queries, please contact Romeo Silvestri at rsilvestri@fbk.eu.
